@@ -122,16 +122,16 @@ const u16 gBattleEnvironmentPalette_BuildingLeader_Evening[] = INCBIN_U16("graph
 const u16 gBattleEnvironmentPalette_BuildingLeader_Night[]   = INCBIN_U16("graphics/battle_environment/building/leader.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumAqua_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumMagma_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
 
 
 const u16 gBattleEnvironmentPalette_StadiumSidney_Morning[] = INCBIN_U16("graphics/battle_environment/stadium_2/palette3.gbapal");
@@ -288,46 +288,46 @@ const u16 gBattleEnvironmentPalette_BuildingLeader_Evening[] = INCBIN_U16("graph
 const u16 gBattleEnvironmentPalette_BuildingLeader_Night[]   = INCBIN_U16("graphics/battle_environment/building/leader.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumAqua_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumAqua_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette1.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumAqua_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/aqua.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumMagma_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumMagma_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette2.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumMagma_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/magma.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumSidney_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette3.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumSidney_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette3.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumSidney_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette3.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumSidney_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette3.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumSidney_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/sidney.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumSidney_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/sidney.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumSidney_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/sidney.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumSidney_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/sidney.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumPhoebe_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette4.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumPhoebe_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette4.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumPhoebe_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette4.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumPhoebe_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette4.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumPhoebe_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/phoebe.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumPhoebe_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/phoebe.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumPhoebe_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/phoebe.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumPhoebe_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/phoebe.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumGlacia_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette5.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumGlacia_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette5.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumGlacia_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette5.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumGlacia_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette5.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumGlacia_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/glacia.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumGlacia_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/glacia.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumGlacia_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/glacia.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumGlacia_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/glacia.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumDrake_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette6.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumDrake_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette6.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumDrake_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette6.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumDrake_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette6.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumDrake_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/drake.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumDrake_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/drake.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumDrake_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/drake.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumDrake_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/drake.gbapal");
 
 
-const u16 gBattleEnvironmentPalette_StadiumWallace_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/palette7.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumWallace_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/palette7.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumWallace_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/palette7.gbapal");
-const u16 gBattleEnvironmentPalette_StadiumWallace_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/palette7.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumWallace_Morning[] = INCBIN_U16("graphics/battle_environment/stadium/wallace.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumWallace_Day[]     = INCBIN_U16("graphics/battle_environment/stadium/wallace.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumWallace_Evening[] = INCBIN_U16("graphics/battle_environment/stadium/wallace.gbapal");
+const u16 gBattleEnvironmentPalette_StadiumWallace_Night[]   = INCBIN_U16("graphics/battle_environment/stadium/wallace.gbapal");
 
 
 const u16 gBattleEnvironmentPalette_Rayquaza_Morning[] = INCBIN_U16("graphics/battle_environment/sky/palette.gbapal");
