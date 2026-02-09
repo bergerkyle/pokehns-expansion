@@ -115,7 +115,7 @@ Once your work is complete and pushed to the branch on Github, you can open a [p
 
 ### What happens after I submit a pull request?
 
-A maintainer will then assign themselves as a reviewer of your pull request, and may provide feedback in the form of a PR review. 
+A maintainer will then assign themselves as a reviewer of your pull request, and may provide feedback in the form of a PR review.
 
 Contributors are responsible for responding to and updating their branch by addressing the feedback in the review. Contributors are also responsible for making sure the branch passes the checklist at all times.
 
