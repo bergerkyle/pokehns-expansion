@@ -864,7 +864,7 @@
       "name": "CherrygroveCity_Layout",
       "width": 65,
       "height": 42,
-      "primary_tileset": "gTileset_Johto_General",
+      "primary_tileset": "gTileset_Ancient_Johto",
       "secondary_tileset": "gTileset_CherrygroveCity",
       "border_filepath": "data/layouts/CherrygroveCity_hns/border.bin",
       "blockdata_filepath": "data/layouts/CherrygroveCity_hns/map.bin",

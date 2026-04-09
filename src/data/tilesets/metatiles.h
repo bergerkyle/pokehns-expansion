@@ -491,3 +491,12 @@ const u16 gMetatiles_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_roo
 const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_room/metatile_attributes.bin");
 
 
+
+const u16 gMetatiles_Ancient_Johto[] = INCBIN_U16("data/tilesets/primary/ancient_johto/metatiles.bin");
+const u16 gMetatileAttributes_Ancient_Johto[] = INCBIN_U16("data/tilesets/primary/ancient_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_johto_general_2[] = INCBIN_U16("data/tilesets/primary/johto_general_2/metatiles.bin");
+const u16 gMetatileAttributes_johto_general_2[] = INCBIN_U16("data/tilesets/primary/johto_general_2/metatile_attributes.bin");
+
+const u16 gMetatiles_ancient_johto[] = INCBIN_U16("data/tilesets/primary/ancient_johto/metatiles.bin");
+const u16 gMetatileAttributes_ancient_johto[] = INCBIN_U16("data/tilesets/primary/ancient_johto/metatile_attributes.bin");

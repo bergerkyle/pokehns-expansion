@@ -1872,3 +1872,36 @@ const struct Tileset gTileset_UnionRoom =
     .metatileAttributes = gMetatileAttributes_UnionRoom,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Ancient_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Ancient_Johto,
+    .palettes = gTilesetPalettes_Ancient_Johto,
+    .metatiles = gMetatiles_Ancient_Johto,
+    .metatileAttributes = gMetatileAttributes_Ancient_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_johto_general_2 =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_johto_general_2,
+    .palettes = gTilesetPalettes_johto_general_2,
+    .metatiles = gMetatiles_johto_general_2,
+    .metatileAttributes = gMetatileAttributes_johto_general_2,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_ancient_johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_ancient_johto,
+    .palettes = gTilesetPalettes_ancient_johto,
+    .metatiles = gMetatiles_ancient_johto,
+    .metatileAttributes = gMetatileAttributes_ancient_johto,
+    .callback = NULL,
+};
