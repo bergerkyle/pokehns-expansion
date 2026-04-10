@@ -1873,28 +1873,6 @@ const struct Tileset gTileset_UnionRoom =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_Ancient_Johto =
-{
-    .isCompressed = TRUE,
-    .isSecondary = FALSE,
-    .tiles = gTilesetTiles_Ancient_Johto,
-    .palettes = gTilesetPalettes_Ancient_Johto,
-    .metatiles = gMetatiles_Ancient_Johto,
-    .metatileAttributes = gMetatileAttributes_Ancient_Johto,
-    .callback = NULL,
-};
-
-const struct Tileset gTileset_johto_general_2 =
-{
-    .isCompressed = TRUE,
-    .isSecondary = FALSE,
-    .tiles = gTilesetTiles_johto_general_2,
-    .palettes = gTilesetPalettes_johto_general_2,
-    .metatiles = gMetatiles_johto_general_2,
-    .metatileAttributes = gMetatileAttributes_johto_general_2,
-    .callback = NULL,
-};
-
 const struct Tileset gTileset_ancient_johto =
 {
     .isCompressed = TRUE,
@@ -1906,17 +1884,6 @@ const struct Tileset gTileset_ancient_johto =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_anicent_cherrygrove =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_anicent_cherrygrove,
-    .palettes = gTilesetPalettes_anicent_cherrygrove,
-    .metatiles = gMetatiles_anicent_cherrygrove,
-    .metatileAttributes = gMetatileAttributes_anicent_cherrygrove,
-    .callback = NULL,
-};
-
 const struct Tileset gTileset_ancient_cherrygrove =
 {
     .isCompressed = TRUE,
@@ -1925,5 +1892,16 @@ const struct Tileset gTileset_ancient_cherrygrove =
     .palettes = gTilesetPalettes_ancient_cherrygrove,
     .metatiles = gMetatiles_ancient_cherrygrove,
     .metatileAttributes = gMetatileAttributes_ancient_cherrygrove,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_cherry =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_cherry,
+    .palettes = gTilesetPalettes_cherry,
+    .metatiles = gMetatiles_cherry,
+    .metatileAttributes = gMetatileAttributes_cherry,
     .callback = NULL,
 };

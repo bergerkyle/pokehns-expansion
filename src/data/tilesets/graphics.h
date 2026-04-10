@@ -3402,44 +3402,6 @@ const u16 gTilesetPalettes_SeaCottage[][16] =
 
 const u32 gTilesetTiles_SeaCottage[] = INCBIN_U32("data/tilesets/secondary/sea_cottage/tiles.4bpp.smol");
 
-const u16 gTilesetPalettes_Ancient_Johto[][16] =
-{
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/00.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/01.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/02.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/03.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/04.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/05.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/06.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/07.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/08.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/09.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/10.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/11.gbapal"),
-    INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/12.gbapal"),
-};
-
-const u32 gTilesetTiles_Ancient_Johto[] = INCBIN_U32("data/tilesets/primary/ancient_johto/tiles.4bpp.lz");
-
-const u16 gTilesetPalettes_johto_general_2[][16] =
-{
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/00.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/01.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/02.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/03.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/04.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/05.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/06.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/07.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/08.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/09.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/10.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/11.gbapal"),
-    INCBIN_U16("data/tilesets/primary/johto_general_2/palettes/12.gbapal"),
-};
-
-const u32 gTilesetTiles_johto_general_2[] = INCBIN_U32("data/tilesets/primary/johto_general_2/tiles.4bpp.lz");
-
 const u16 gTilesetPalettes_ancient_johto[][16] =
 {
     INCBIN_U16("data/tilesets/primary/ancient_johto/palettes/00.gbapal"),
@@ -3458,26 +3420,6 @@ const u16 gTilesetPalettes_ancient_johto[][16] =
 };
 
 const u32 gTilesetTiles_ancient_johto[] = INCBIN_U32("data/tilesets/primary/ancient_johto/tiles.4bpp.lz");
-
-const u16 gTilesetPalettes_anicent_cherrygrove[][16] =
-{
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/00.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/01.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/02.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/03.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/04.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/05.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/06.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/07.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/08.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/09.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/10.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/11.gbapal"),
-    INCBIN_U16("data/tilesets/secondary/anicent_cherrygrove/palettes/12.gbapal"),
-};
-
-const u32 gTilesetTiles_anicent_cherrygrove[] = INCBIN_U32("data/tilesets/secondary/anicent_cherrygrove/tiles.4bpp.lz");
-
 const u16 gTilesetPalettes_ancient_cherrygrove[][16] =
 {
     INCBIN_U16("data/tilesets/secondary/ancient_cherrygrove/palettes/00.gbapal"),
