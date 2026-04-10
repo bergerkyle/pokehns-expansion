@@ -1,1 +1,3 @@
 porytiles compile-primary -Wall -disable-attribute-generation -o $HOME/github/pokehns-expansion/data/tilesets/primary/ancient_johto $HOME/github/pokehns-expansion/tilesets/general $HOME/github/pokehns-expansion/include/constants/metatile_behaviors.h
+
+porytiles compile-secondary -Wall -o $HOME/github/pokehns-expansion/data/tilesets/secondary/ancient_cherrygrove $HOME/github/pokehns-expansion/tilesets/cherry $HOME/github/pokehns-expansion/tilesets/general $HOME/github/pokehns-expansion/include/constants/metatile_behaviors.h
