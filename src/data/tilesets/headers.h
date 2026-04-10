@@ -1916,3 +1916,14 @@ const struct Tileset gTileset_anicent_cherrygrove =
     .metatileAttributes = gMetatileAttributes_anicent_cherrygrove,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_ancient_cherrygrove =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_ancient_cherrygrove,
+    .palettes = gTilesetPalettes_ancient_cherrygrove,
+    .metatiles = gMetatiles_ancient_cherrygrove,
+    .metatileAttributes = gMetatileAttributes_ancient_cherrygrove,
+    .callback = NULL,
+};
