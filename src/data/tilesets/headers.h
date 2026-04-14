@@ -1894,14 +1894,3 @@ const struct Tileset gTileset_ancient_cherrygrove =
     .metatileAttributes = gMetatileAttributes_ancient_cherrygrove,
     .callback = NULL,
 };
-
-const struct Tileset gTileset_cherry =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_cherry,
-    .palettes = gTilesetPalettes_cherry,
-    .metatiles = gMetatiles_cherry,
-    .metatileAttributes = gMetatileAttributes_cherry,
-    .callback = NULL,
-};
