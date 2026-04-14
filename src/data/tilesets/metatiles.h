@@ -494,3 +494,6 @@ const u16 gMetatiles_ancient_johto[] = INCBIN_U16("data/tilesets/primary/ancient
 const u16 gMetatileAttributes_ancient_johto[] = INCBIN_U16("data/tilesets/primary/ancient_johto/metatile_attributes.bin");
 const u16 gMetatiles_ancient_cherrygrove[] = INCBIN_U16("data/tilesets/secondary/ancient_cherrygrove/metatiles.bin");
 const u16 gMetatileAttributes_ancient_cherrygrove[] = INCBIN_U16("data/tilesets/secondary/ancient_cherrygrove/metatile_attributes.bin");
+
+const u16 gMetatiles_village_interior[] = INCBIN_U16("data/tilesets/primary/village_interior/metatiles.bin");
+const u16 gMetatileAttributes_village_interior[] = INCBIN_U16("data/tilesets/primary/village_interior/metatile_attributes.bin");

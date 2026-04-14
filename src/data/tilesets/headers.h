@@ -1894,3 +1894,14 @@ const struct Tileset gTileset_ancient_cherrygrove =
     .metatileAttributes = gMetatileAttributes_ancient_cherrygrove,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_village_interior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_village_interior,
+    .palettes = gTilesetPalettes_village_interior,
+    .metatiles = gMetatiles_village_interior,
+    .metatileAttributes = gMetatileAttributes_village_interior,
+    .callback = NULL,
+};
