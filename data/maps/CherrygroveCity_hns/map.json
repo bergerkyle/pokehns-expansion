@@ -27,7 +27,7 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_OLD_MAN_1",
-      "x": 57,
+      "x": 58,
       "y": 8,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
@@ -248,7 +248,7 @@
   "coord_events": [
     {
       "type": "trigger",
-      "x": 57,
+      "x": 58,
       "y": 9,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
@@ -257,7 +257,7 @@
     },
     {
       "type": "trigger",
-      "x": 57,
+      "x": 58,
       "y": 10,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
@@ -266,7 +266,7 @@
     },
     {
       "type": "trigger",
-      "x": 57,
+      "x": 58,
       "y": 11,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
@@ -275,7 +275,7 @@
     },
     {
       "type": "trigger",
-      "x": 56,
+      "x": 57,
       "y": 10,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
@@ -284,7 +284,7 @@
     },
     {
       "type": "trigger",
-      "x": 56,
+      "x": 57,
       "y": 9,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
@@ -293,7 +293,7 @@
     },
     {
       "type": "trigger",
-      "x": 56,
+      "x": 57,
       "y": 11,
       "elevation": 0,
       "var": "VAR_CHERRYGROVE_CITY_STATE",
