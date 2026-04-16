@@ -42,6 +42,13 @@
       "elevation": 0,
       "dest_map": "MAP_CHERRYGROVE_CITY",
       "dest_warp_id": "3"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_CHERRYGROVE_CITY_HOUSE2_2F",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [],

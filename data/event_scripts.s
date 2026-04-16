@@ -405,6 +405,7 @@ gStdScripts_End::
 	.include "data/maps/NewBarkTown_PlayersHouse_2F_hns/scripts.inc"
 	.include "data/maps/CherrygroveCity_House1_hns/scripts.inc"
 	.include "data/maps/CherrygroveCity_House2_hns/scripts.inc"
+	.include "data/maps/CherrygroveCity_House2_2F_hns/scripts.inc"
 	.include "data/maps/CherrygroveCity_House3_hns/scripts.inc"
 	.include "data/maps/EcruteakCity_House1_hns/scripts.inc"
 	.include "data/maps/EcruteakCity_House2_hns/scripts.inc"
@@ -1775,4 +1776,3 @@ EventScript_VsSeekerChargingDone::
 	releaseall
 	end
 
-	.include "data/maps/CherrygroveCity_House2_2F_hns/scripts.inc"

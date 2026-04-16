@@ -5456,6 +5456,17 @@
       "border_filepath": "data/layouts/BattleColosseum_4P_hns/border.bin",
       "blockdata_filepath": "data/layouts/BattleColosseum_4P_hns/map.bin",
       "layout_version": "hns"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_CITY_HOUSE2_2F",
+      "name": "CherrygroveCity_House2_2F_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_village_interior",
+      "secondary_tileset": "gTileset_House_Lab",
+      "border_filepath": "data/layouts/CherrygroveCity_House2_2F_hns/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygroveCity_House2_2F_hns/map.bin",
+      "layout_version": "hns"
     }
   ]
 }
