@@ -1774,3 +1774,5 @@ EventScript_VsSeekerChargingDone::
 	special VsSeekerResetObjectMovementAfterChargeComplete
 	releaseall
 	end
+
+	.include "data/maps/CherrygroveCity_House2_2F_hns/scripts.inc"

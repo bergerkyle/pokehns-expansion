@@ -3053,7 +3053,7 @@
       "name": "CherrygroveCity_House1_Layout",
       "width": 13,
       "height": 10,
-      "primary_tileset": "gTileset_village_interior",
+      "primary_tileset": "gTileset_Johto_Building",
       "secondary_tileset": "gTileset_House_Lab",
       "border_filepath": "data/layouts/CherrygroveCity_House1_hns/border.bin",
       "blockdata_filepath": "data/layouts/CherrygroveCity_House1_hns/map.bin",
